@@ -1,6 +1,6 @@
 ### Hi, Here is w洛酱w
 
-#### ⚡Main Information
+### ⚡Main Information
 
 🏫 Junior UG [@SUSTech](https://www.sustech.edu.cn/)
 
@@ -20,7 +20,7 @@
 
 
 
-#### ⚡My Works
+### ⚡My Works
 
 - Course Project 📚
   - [[CS102A] 22S Chess](https://github.com/wLUOw/Chess) (Java A)
@@ -44,7 +44,7 @@
 
 
 
-#### ⚡Status
+### ⚡Status
 
 ![pic1](https://github-readme-stats.vercel.app/api?username=wLUOw&show_icons=true&include_all_commits=true&count_private=true) 
 
