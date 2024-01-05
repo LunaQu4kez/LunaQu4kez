@@ -1,13 +1,49 @@
-### Hi there 👋
+### Hi, Here is w洛酱w
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### ⚡Main Information
+
+🏫 Junior UG [@SUSTech](https://www.sustech.edu.cn/)
+
+💻 Major in Mathematics Dept. **but interested in Computer Science**
+
+🌱 Currently learning Operations Research & Optimization, Computer Organization and Artificial Intelligence
+
+🤔 I’m looking for help with ~~my final exam~~
+
+📫 How to reach me: 
+
+- School email: 12110120@mail.sustech.edu.cn
+- Personal email: 2397429787@qq.com
+
+😄 Hobbies: doing sports, ~~play [Genshin Impact](https://ys.mihoyo.com/)~~
 
 
-![pic1](https://github-readme-stats.vercel.app/api?username=wLUOw&show_icons=true&include_all_commits=true&count_private=true) \
+
+#### ⚡My Works
+
+- Course Project 📚
+  - [[CS102A] 22S Chess](https://github.com/wLUOw/Chess) (Java A)
+  - [[CS109] 23S Jungle](https://github.com/wLUOw/Jungle) (Java A but Student Assistant)
+  - [[CS203B] 22F Numeric Klotski](https://github.com/wLUOw/Numeric_Klotski) (DSAA B)
+  - [[MA206] 23S Projects](https://github.com/wLUOw/MA206-MM-Projects) (Math Modeling)
+  - [[CS307] 23F Project Part 1](https://github.com/wLUOw/CS307_23F_Project_Part1) (Database System)
+  - [[CS307] 23F Project Part 2](https://github.com/wLUOw/CS307_23F_Project_Part2) (Database System)
+  - [[CS207] 23F Genshin Kitchen](https://github.com/wLUOw/CS207_23F_Project_GenshinKitchen) (Digital Design)
+
+- Course Assignments & Labs ✏
+  - [[CS307] 23F Assignments](https://github.com/wLUOw/CS307_23F_Assignment)
+  - [[CS207] 23F Assignments](https://github.com/wLUOw/CS207_23F_Assignment)
+- Competitions 🌏
+  - [2023 MCM-ACM](https://github.com/wLUOw/2023_MCM-ACM)
+- Shared Materials & Notes 🔑
+  - [**SUSTech Math Course Materials**](https://github.com/wLUOw/SUSTech_Math_Course_Materials)
+  - [Note for Multivariate Functions](https://github.com/wLUOw/Introduction_to_Multivariate_Functions)
+  - [Algorithm Template](https://github.com/wLUOw/CodeRepo)
+
+
+
+#### ⚡Status
+
+![pic1](https://github-readme-stats.vercel.app/api?username=wLUOw&show_icons=true&include_all_commits=true&count_private=true) 
 ![pic2](https://github-readme-stats.vercel.app/api/top-langs/?username=wLUOw&layout=compact&hide=VHDL)
+
