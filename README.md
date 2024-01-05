@@ -10,4 +10,4 @@
 
 
 ![pic1](https://github-readme-stats.vercel.app/api?username=wLUOw&show_icons=true&include_all_commits=true&count_private=true) \
-![pic2](https://github-readme-stats.vercel.app/api/top-langs/?username=wLUOw&layout=compact&hide=VHDL,html)
+![pic2](https://github-readme-stats.vercel.app/api/top-langs/?username=wLUOw&layout=compact&hide=VHDL)
