@@ -31,9 +31,6 @@
   - [[CS307] 23F Project Part 2](https://github.com/wLUOw/CS307_23F_Project_Part2) (Database System)
   - [[CS207] 23F Genshin Kitchen](https://github.com/wLUOw/CS207_23F_Project_GenshinKitchen) (Digital Design)
 
-- Course Assignments & Labs ✏
-  - [[CS307] 23F Assignments](https://github.com/wLUOw/CS307_23F_Assignment)
-  - [[CS207] 23F Assignments](https://github.com/wLUOw/CS207_23F_Assignment)
 - Competitions 🌏
   - [2023 MCM-ACM](https://github.com/wLUOw/2023_MCM-ACM)
 - Shared Materials & Notes 🔑
