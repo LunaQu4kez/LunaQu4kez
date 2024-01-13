@@ -35,6 +35,7 @@
   - [2023 MCM-ACM](https://github.com/wLUOw/2023_MCM-ACM)
 - Shared Materials & Notes 🔑
   - [**SUSTech Math Course Materials**](https://github.com/wLUOw/SUSTech_Math_Course_Materials)
+  - [**CS Notes**](https://github.com/wLUOw/CS_Notes)
   - [Note for Multivariate Functions](https://github.com/wLUOw/Introduction_to_Multivariate_Functions)
   - [Algorithm Template](https://github.com/wLUOw/CodeRepo)
 
