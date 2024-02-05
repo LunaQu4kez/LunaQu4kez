@@ -32,7 +32,8 @@
   - [[CS207] 23F Genshin Kitchen](https://github.com/wLUOw/CS207_23F_Project_GenshinKitchen) (Digital Design)
 
 - Competitions 🌏
-  - [2023 MCM-ICM](https://github.com/wLUOw/2023_MCM-ICM)
+  - [2023 MCM/ICM](https://github.com/wLUOw/2023_MCM-ICM)
+  - [2024 MCM/ICM](https://github.com/wLUOw/2024_MCM-ICM)
 - Shared Materials & Notes 🔑
   - [**SUSTech Math Course Materials**](https://github.com/wLUOw/SUSTech_Math_Course_Materials)
   - [**CS Notes**](https://github.com/wLUOw/CS_Notes)
