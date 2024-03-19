@@ -6,16 +6,16 @@
 
 💻 Major in Mathematics Dept. **but interested in Computer Science**
 
-🌱 Currently learning Operations Research & Optimization, Computer Organization and Artificial Intelligence
+🌱 Currently learning Computer Organization, Big Data and Evolution Computing
 
-🤔 I’m looking for help with ~~my final exam~~
+🤔 I’m looking for help with evolution computing
 
 📫 How to reach me: 
 
 - School email: 12110120@mail.sustech.edu.cn
 - Personal email: 2397429787@qq.com
 
-😄 Hobbies: doing sports, ~~play [Genshin Impact](https://ys.mihoyo.com/)~~
+😄 Hobbies: doing sports, ACGN, ~~play [Genshin Impact](https://ys.mihoyo.com/)~~
 
 
 
