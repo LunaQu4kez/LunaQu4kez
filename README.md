@@ -10,7 +10,7 @@
 
 📫 How to reach me: 
 
-- Official Email (School email): 12110120@mail.sustech.edu.cn
+- Official Email (School email): zhaoz2021@mail.sustech.edu.cn
 - Personal Email: 2397429787@qq.com
 - QQ: 2397429787
 - Wechat: \_wLUOw\_
