@@ -10,17 +10,17 @@
 
 📫 How to reach me: 
 
-- School email: 12110120@mail.sustech.edu.cn
-- Personal email: 2397429787@qq.com
+- Official Email (School email): 12110120@mail.sustech.edu.cn
+- Personal Email: 2397429787@qq.com
 - QQ: 2397429787
 - Wechat: \_wLUOw\_
 
 😄 Hobbies: 
 
-- Doing Sports
-- Waching Football Games (Fans of Manchester City!)
-- ACGN
-- ~~play [Genshin Impact](https://ys.mihoyo.com/)~~
+- Doing Sports :bicyclist:
+- Waching Football Games :soccer: (Fans of Manchester City :trophy:)
+- ACGN :video_game: (Animation, Comic, Game, Novel)
+- ~~Playing [Genshin Impact](https://ys.mihoyo.com/)~~
 
 
 
