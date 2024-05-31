@@ -30,6 +30,8 @@
   - [[CS307] 23F Project Part 1](https://github.com/wLUOw/CS307_23F_Project_Part1) (Database System)
   - [[CS307] 23F Project Part 2](https://github.com/wLUOw/CS307_23F_Project_Part2) (Database System)
   - [[CS207] 23F Genshin Kitchen](https://github.com/wLUOw/CS207_23F_Project_GenshinKitchen) (Digital Design)
+  - [**[CS202] 24S MineCPU**](https://github.com/wLUOw/SUSTech_CS202_MineCPU) (Computer Organization)
+  - [[MA234] 24S Data Science for DC Crime](https://github.com/wLUOw/MA234_Course_Project) (Introduction to Big Data)
 
 - Competitions 🌏
   - [2023 MCM/ICM](https://github.com/wLUOw/2023_MCM-ICM)
