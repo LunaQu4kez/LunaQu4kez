@@ -4,19 +4,23 @@
 
 🏫 Junior UG [@SUSTech](https://www.sustech.edu.cn/)
 
-💻 Major in Mathematics Dept. **but interested in Computer Science**
+💻 Major in Mathematics Dept. **BUT interested in Computer Science**
 
-🌱 Currently learning Computer Organization, Big Data and Evolution Computing
-
-🤔 I’m looking for help with evolution computing
+🌱 Currently learning Theory of Evolutionary Computing
 
 📫 How to reach me: 
 
 - School email: 12110120@mail.sustech.edu.cn
 - Personal email: 2397429787@qq.com
+- QQ: 2397429787
+- Wechat: \_wLUOw\_
 
-😄 Hobbies: doing sports, ACGN, ~~play [Genshin Impact](https://ys.mihoyo.com/)~~
+😄 Hobbies: 
 
+- Doing Sports
+- Waching Football Games (Fans of Manchester City!)
+- ACGN
+- ~~play [Genshin Impact](https://ys.mihoyo.com/)~~
 
 
 
