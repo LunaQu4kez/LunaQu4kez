@@ -38,7 +38,8 @@
   - [[CS207] 23F Genshin Kitchen](https://github.com/wLUOw/CS207_23F_Project_GenshinKitchen) (Digital Design)
   - [**[CS202] 24S MineCPU**](https://github.com/wLUOw/SUSTech_CS202_MineCPU) (Computer Organization)
   - [[MA234] 24S Data Science for DC Crime](https://github.com/wLUOw/MA234_Course_Project) (Introduction to Big Data)
-
+  - [[SWS3019] Beijing House Price Analysis & Vis](https://github.com/Dilemma-CMZ/SWS3019-2024) (NUS Soc: Big Data Analysis and Visualization)
+  
 - Competitions 🌏
   - [2023 MCM/ICM](https://github.com/wLUOw/2023_MCM-ICM)
   - [2024 MCM/ICM](https://github.com/wLUOw/2024_MCM-ICM)
