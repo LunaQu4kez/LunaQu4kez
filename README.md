@@ -55,7 +55,7 @@
 
 ### ⚡Status
 
-![pic1](https://github-readme-stats.vercel.app/api?username=wLUOw&show_icons=true&count_private=true) 
+![pic1](https://github-readme-stats.mrcai.dev/api?username=wLUOw&show_icons=true&count_private=true) 
 
-![pic2](https://github-readme-stats.vercel.app/api/top-langs/?username=wLUOw&layout=compact&hide=VHDL)
+![pic2](https://github-readme-stats.mrcai.dev/api/top-langs/?username=wLUOw&layout=compact&hide=VHDL)
 
