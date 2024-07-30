@@ -22,7 +22,7 @@
 - ACGN :video_game: (Animation, Comic, Game, Novel)
 - ~~Playing [Genshin Impact](https://ys.mihoyo.com/)~~
 
-:page_facing_up: [Personal CV](./docs/CV.pdf)
+:page_facing_up: [Personal CV](./docs/CV)   :page_with_curl: [Transcript](./docs/Transcript.pdf)
 
 
 
