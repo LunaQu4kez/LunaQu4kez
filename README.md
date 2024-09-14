@@ -26,7 +26,6 @@
 
 - Course Projects 📚
   - [[CS109 23S] Jungle](https://github.com/wLUOw/Jungle) (Java A - Student Assistant)
-  - [[CS307 23F] Database vs File IO](https://github.com/wLUOw/CS307_23F_Project_Part1) (Database System)
   - [[CS307 23F] SUSTC API](https://github.com/wLUOw/CS307_23F_Project_Part2) (Database System)
   - [[CS207 23F] Genshin Kitchen](https://github.com/wLUOw/CS207_23F_Project_GenshinKitchen) (Digital Design)
   - [**[CS202 24S] MineCPU**](https://github.com/wLUOw/SUSTech_CS202_MineCPU) (Computer Organization)
@@ -35,7 +34,7 @@
 - Competitions 🌏
   - [2023 MCM/ICM](https://github.com/wLUOw/2023_MCM-ICM)
   - [2024 MCM/ICM](https://github.com/wLUOw/2024_MCM-ICM)
-  - [第二届熵密杯](https://github.com/wLUOw/CTF_Writeups/tree/master/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E7%86%B5%E5%AF%86%E6%9D%AF) 
+  - [2024 "ShangMi" Password Security Challenge](https://github.com/wLUOw/CTF_Writeups/tree/master/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E7%86%B5%E5%AF%86%E6%9D%AF) 
 - Shared Materials & Notes 🔑
   - [**SUSTech Math Course Materials**](https://github.com/wLUOw/SUSTech_Math_Course_Materials)
   - [**SUSTech CS Course Notes**](https://github.com/wLUOw/CS_Notes)
