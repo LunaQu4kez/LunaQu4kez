@@ -18,7 +18,7 @@
 - Doing Sports :bicyclist:
 - Watching Football Games :soccer: (Fans of Manchester City :trophy:)
 - ACGN :video_game: (Animation, Comic, Game, Novel)
-- ~~Playing [Genshin Impact](https://ys.mihoyo.com/)~~
+- ~~Playing [Genshin Impact](https://ys.mihoyo.com/) and [Valorant](https://val.qq.com/main.html)~~
 
 
 
