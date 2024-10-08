@@ -34,7 +34,7 @@
 - Competitions 🌏
   - [2023 MCM/ICM](https://github.com/wLUOw/2023_MCM-ICM)
   - [2024 MCM/ICM](https://github.com/wLUOw/2024_MCM-ICM)
-  - [2024 "ShangMi" Password Security Challenge](https://github.com/wLUOw/CTF_Writeups/tree/master/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E7%86%B5%E5%AF%86%E6%9D%AF) 
+  - [2024 "ShangMi" Crypto Security Challenge](https://github.com/wLUOw/CTF_Writeups/tree/master/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E7%86%B5%E5%AF%86%E6%9D%AF) 
 - Shared Materials & Notes 🔑
   - [**SUSTech Math Course Materials**](https://github.com/wLUOw/SUSTech_Math_Course_Materials)
   - [**SUSTech CS Course Notes**](https://github.com/wLUOw/CS_Notes)
@@ -46,5 +46,5 @@
 
 ### ⚡Status
 
-![pic1](https://github-readme-stats.mrcai.dev/api?username=wLUOw&show_icons=true&count_private=true) 
+![pic1](https://github-readme-stats.mrcai.dev/api?username=LunaQu4kez&show_icons=true&count_private=true) 
 
