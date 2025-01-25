@@ -40,11 +40,5 @@
   - [**SUSTech CS Course Notes**](https://github.com/wLUOw/CS_Notes)
   - [CTF Notes & Writeups](https://github.com/wLUOw/CTF_Writeups) 
   - [Note for Multivariate Functions](https://github.com/wLUOw/Introduction_to_Multivariate_Functions) 
-
-
-
-
-### ⚡Status
-
-![pic1](https://github-readme-stats.mrcai.dev/api?username=LunaQu4kez&show_icons=true&count_private=true) 
+ 
 
