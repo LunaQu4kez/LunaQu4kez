@@ -6,7 +6,7 @@
 
 💻 Major in E&I (Electronic & Information Engineering) [@NGCE](https://ngce.sustech.edu.cn/#/site) (National Graduate College for Engineers)
 
-:crystal_ball: Current member of **COMPASS CTF Team**
+:crystal_ball: Current member of [COMPASS CTF Team](https://www.compassc.tf/)
 
 📫 How to reach me: 
 
