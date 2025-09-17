@@ -15,7 +15,7 @@
 
 😄 Hobbies: 
 
-- City Walk & Playing :playground_slide:
+- City Walk & Playing :motorway:
 - ACGN :video_game: (Animation, Comic, Game, Novel)
 - ~~[Genshin Impact](https://ys.mihoyo.com/) and [Valorant](https://val.qq.com/main.html)~~
 
