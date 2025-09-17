@@ -2,7 +2,7 @@
 
 ### ⚡Main Information
 
-🏫 First year PhD student in AIMS Lab [@SUSTech](https://www.sustech.edu.cn/) 
+🏫 First year PhD student in [AIMS Lab](https://jinzhang-sustech.github.io/lab/) [@SUSTech](https://www.sustech.edu.cn/) 
 
 💻 Major in E&I (Electronic & Information Engineering) [@NGCE](https://ngce.sustech.edu.cn/#/site) (National Graduate College for Engineers)
 
